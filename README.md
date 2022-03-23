@@ -13,6 +13,7 @@
 
 ->Net Core MVC (Web Design and Developer with C#), Android Studio (Flutter Mobile Programming), Image Processing with Python, QT (GUI with C++), SQLite Studio and SQL Server (Database), R (Machine earning) UiPath Studio (Artificial intelligence)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SadkDemr&layout=compact)](https://github.com/SadkDemr/github-readme-stats)
 
 
 
