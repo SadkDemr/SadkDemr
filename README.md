@@ -21,7 +21,7 @@
 📫 Contact
 
 [<img src='https://icones.pro/wp-content/uploads/2021/06/icone-github-verte.png' alt='github' height='40'>](https://github.com/SadkDemr) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/muhammed-sadık-demir-4138821b7/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/18534459/sadık-demir)  
+[<img src='https://icones.pro/wp-content/uploads/2021/03/icone-linkedin-ronde-vert.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/muhammed-sadık-demir-4138821b7/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/18534459/sadık-demir)  
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SadkDemr)](https://github.com/anuraghazra/github-readme-stats)
 
