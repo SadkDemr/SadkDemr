@@ -12,9 +12,9 @@
 
 ⚡ Computer Information
 
-->C, C++, C#, Java, Python, HTML vs.
+->C, C++, C#, Java, Python, HTML , Qml , vs...
 
-->Net Core MVC (Web Design and Developer with C#), Android Studio (Java Mobile Programming), Image Processing with Python, QT (GUI with C++), SQLite Studio and SQL Server (Database), R (Machine earning) UiPath Studio (Artificial intelligence)
+->Net Core MVC (Web Design and Developer with C#), Android Studio (Java Mobile Programming), Image Processing with Python, QT (GUI with C++), SQLite Studio and SQL Server (Database), R (Machine earning) UiPath Studio (Artificial intelligence), Qt Creator (QtSqLite Project)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SadkDemr&layout=compact)](https://github.com/SadkDemr/github-readme-stats)
 
